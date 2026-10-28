@@ -12,6 +12,5012 @@
     "average_order": 3917.08,
     "margin_pct": 20.99
   },
+  "transactions": [
+    {
+      "order_id": 1,
+      "month": "2025-05",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C002",
+      "revenue": 1081.83,
+      "profit": 341.63
+    },
+    {
+      "order_id": 2,
+      "month": "2026-06",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 1132.47,
+      "profit": 396.36
+    },
+    {
+      "order_id": 3,
+      "month": "2025-01",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 824.45,
+      "profit": 183.21
+    },
+    {
+      "order_id": 4,
+      "month": "2026-01",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 4197.21,
+      "profit": 839.43
+    },
+    {
+      "order_id": 5,
+      "month": "2026-01",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 543.92,
+      "profit": 48.35
+    },
+    {
+      "order_id": 7,
+      "month": "2026-10",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 2064.09,
+      "profit": 321.08
+    },
+    {
+      "order_id": 8,
+      "month": "2026-12",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 14232.16,
+      "profit": 2846.44
+    },
+    {
+      "order_id": 9,
+      "month": "2026-10",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C004",
+      "revenue": 4215.85,
+      "profit": 655.79
+    },
+    {
+      "order_id": 10,
+      "month": "2026-02",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 2546.42,
+      "profit": 891.24
+    },
+    {
+      "order_id": 11,
+      "month": "2026-10",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 1057.46,
+      "profit": 94.0
+    },
+    {
+      "order_id": 12,
+      "month": "2026-08",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 12335.42,
+      "profit": 1306.1
+    },
+    {
+      "order_id": 13,
+      "month": "2025-02",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 9916.38,
+      "profit": 1542.53
+    },
+    {
+      "order_id": 15,
+      "month": "2026-07",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 7461.66,
+      "profit": 2611.56
+    },
+    {
+      "order_id": 16,
+      "month": "2025-09",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 729.52,
+      "profit": 162.12
+    },
+    {
+      "order_id": 17,
+      "month": "2025-06",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 3126.71,
+      "profit": 110.33
+    },
+    {
+      "order_id": 18,
+      "month": "2025-04",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C006",
+      "revenue": 5687.03,
+      "profit": 1795.88
+    },
+    {
+      "order_id": 19,
+      "month": "2026-05",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 11005.55,
+      "profit": 2641.35
+    },
+    {
+      "order_id": 20,
+      "month": "2026-09",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C007",
+      "revenue": 2144.3,
+      "profit": 643.3
+    },
+    {
+      "order_id": 21,
+      "month": "2026-11",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 13403.66,
+      "profit": 2680.7
+    },
+    {
+      "order_id": 22,
+      "month": "2025-12",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 425.22,
+      "profit": 127.57
+    },
+    {
+      "order_id": 23,
+      "month": "2025-02",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C006",
+      "revenue": 1134.95,
+      "profit": 397.23
+    },
+    {
+      "order_id": 24,
+      "month": "2025-05",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 3054.83,
+      "profit": 271.55
+    },
+    {
+      "order_id": 25,
+      "month": "2026-03",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 827.44,
+      "profit": 248.24
+    },
+    {
+      "order_id": 26,
+      "month": "2025-12",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C002",
+      "revenue": 6567.3,
+      "profit": 2298.54
+    },
+    {
+      "order_id": 27,
+      "month": "2026-04",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 758.72,
+      "profit": 168.6
+    },
+    {
+      "order_id": 28,
+      "month": "2025-04",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 1088.55,
+      "profit": 256.13
+    },
+    {
+      "order_id": 30,
+      "month": "2026-07",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 2244.89,
+      "profit": 307.21
+    },
+    {
+      "order_id": 31,
+      "month": "2025-03",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 2136.18,
+      "profit": 226.19
+    },
+    {
+      "order_id": 32,
+      "month": "2026-06",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 1781.47,
+      "profit": 314.37
+    },
+    {
+      "order_id": 33,
+      "month": "2026-08",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 7061.46,
+      "profit": 2471.52
+    },
+    {
+      "order_id": 34,
+      "month": "2025-11",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 2324.94,
+      "profit": 410.28
+    },
+    {
+      "order_id": 35,
+      "month": "2026-11",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 1116.23,
+      "profit": 152.75
+    },
+    {
+      "order_id": 36,
+      "month": "2026-07",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C002",
+      "revenue": 1106.17,
+      "profit": 307.27
+    },
+    {
+      "order_id": 37,
+      "month": "2025-09",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 1226.83,
+      "profit": 167.89
+    },
+    {
+      "order_id": 38,
+      "month": "2026-07",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 2299.0,
+      "profit": 81.15
+    },
+    {
+      "order_id": 39,
+      "month": "2026-07",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 7761.18,
+      "profit": 1862.67
+    },
+    {
+      "order_id": 40,
+      "month": "2026-10",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 12869.06,
+      "profit": 2573.84
+    },
+    {
+      "order_id": 41,
+      "month": "2025-02",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 1151.14,
+      "profit": 319.76
+    },
+    {
+      "order_id": 42,
+      "month": "2026-03",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C001",
+      "revenue": 1091.16,
+      "profit": 97.0
+    },
+    {
+      "order_id": 43,
+      "month": "2026-08",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 12803.05,
+      "profit": 3072.75
+    },
+    {
+      "order_id": 44,
+      "month": "2025-08",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C004",
+      "revenue": 1943.61,
+      "profit": 349.86
+    },
+    {
+      "order_id": 45,
+      "month": "2025-08",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 2441.6,
+      "profit": 732.5
+    },
+    {
+      "order_id": 46,
+      "month": "2026-02",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 2408.76,
+      "profit": 760.66
+    },
+    {
+      "order_id": 47,
+      "month": "2025-08",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 5144.24,
+      "profit": 1800.48
+    },
+    {
+      "order_id": 48,
+      "month": "2026-02",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 4953.64,
+      "profit": 1188.88
+    },
+    {
+      "order_id": 49,
+      "month": "2026-07",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 1499.3,
+      "profit": 52.91
+    },
+    {
+      "order_id": 50,
+      "month": "2025-09",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C001",
+      "revenue": 1114.35,
+      "profit": 39.33
+    },
+    {
+      "order_id": 51,
+      "month": "2026-06",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 3376.51,
+      "profit": 462.07
+    },
+    {
+      "order_id": 52,
+      "month": "2025-01",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C004",
+      "revenue": 7500.66,
+      "profit": 1800.15
+    },
+    {
+      "order_id": 53,
+      "month": "2025-05",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 2943.15,
+      "profit": 402.75
+    },
+    {
+      "order_id": 54,
+      "month": "2025-07",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 2304.81,
+      "profit": 315.41
+    },
+    {
+      "order_id": 55,
+      "month": "2026-07",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 9793.96,
+      "profit": 1037.01
+    },
+    {
+      "order_id": 56,
+      "month": "2026-04",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 1971.66,
+      "profit": 347.96
+    },
+    {
+      "order_id": 57,
+      "month": "2025-10",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 2785.8,
+      "profit": 835.74
+    },
+    {
+      "order_id": 58,
+      "month": "2025-07",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 12926.63,
+      "profit": 2585.33
+    },
+    {
+      "order_id": 59,
+      "month": "2026-10",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 2229.95,
+      "profit": 669.0
+    },
+    {
+      "order_id": 60,
+      "month": "2025-04",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 5176.96,
+      "profit": 1242.48
+    },
+    {
+      "order_id": 61,
+      "month": "2025-05",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 363.32,
+      "profit": 64.12
+    },
+    {
+      "order_id": 62,
+      "month": "2026-06",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 2168.52,
+      "profit": 76.52
+    },
+    {
+      "order_id": 63,
+      "month": "2026-10",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 1796.11,
+      "profit": 472.67
+    },
+    {
+      "order_id": 64,
+      "month": "2025-08",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 2502.52,
+      "profit": 450.44
+    },
+    {
+      "order_id": 65,
+      "month": "2026-12",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 2271.0,
+      "profit": 794.84
+    },
+    {
+      "order_id": 66,
+      "month": "2025-03",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 1139.67,
+      "profit": 201.12
+    },
+    {
+      "order_id": 67,
+      "month": "2025-12",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 5375.16,
+      "profit": 1493.11
+    },
+    {
+      "order_id": 68,
+      "month": "2025-08",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 2027.21,
+      "profit": 357.76
+    },
+    {
+      "order_id": 69,
+      "month": "2026-11",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C007",
+      "revenue": 391.72,
+      "profit": 87.05
+    },
+    {
+      "order_id": 70,
+      "month": "2026-02",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 9235.0,
+      "profit": 977.85
+    },
+    {
+      "order_id": 71,
+      "month": "2026-01",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 8736.56,
+      "profit": 2096.76
+    },
+    {
+      "order_id": 72,
+      "month": "2026-03",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 2394.91,
+      "profit": 327.71
+    },
+    {
+      "order_id": 74,
+      "month": "2025-05",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C008",
+      "revenue": 1898.17,
+      "profit": 200.98
+    },
+    {
+      "order_id": 77,
+      "month": "2026-10",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C004",
+      "revenue": 2117.77,
+      "profit": 224.24
+    },
+    {
+      "order_id": 78,
+      "month": "2026-08",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C001",
+      "revenue": 3246.97,
+      "profit": 114.61
+    },
+    {
+      "order_id": 79,
+      "month": "2025-01",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 525.05,
+      "profit": 18.53
+    },
+    {
+      "order_id": 80,
+      "month": "2026-03",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C003",
+      "revenue": 3374.35,
+      "profit": 299.95
+    },
+    {
+      "order_id": 81,
+      "month": "2026-08",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 1725.55,
+      "profit": 383.47
+    },
+    {
+      "order_id": 82,
+      "month": "2026-04",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 3074.03,
+      "profit": 853.91
+    },
+    {
+      "order_id": 83,
+      "month": "2025-09",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 1017.81,
+      "profit": 90.47
+    },
+    {
+      "order_id": 84,
+      "month": "2025-07",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 3010.0,
+      "profit": 541.8
+    },
+    {
+      "order_id": 85,
+      "month": "2026-10",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 2335.75,
+      "profit": 700.75
+    },
+    {
+      "order_id": 86,
+      "month": "2025-09",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 3531.18,
+      "profit": 1235.91
+    },
+    {
+      "order_id": 87,
+      "month": "2026-12",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 1970.95,
+      "profit": 69.55
+    },
+    {
+      "order_id": 88,
+      "month": "2026-07",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 2311.46,
+      "profit": 554.75
+    },
+    {
+      "order_id": 89,
+      "month": "2026-06",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 1256.87,
+      "profit": 221.81
+    },
+    {
+      "order_id": 90,
+      "month": "2025-01",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C003",
+      "revenue": 1066.91,
+      "profit": 146.01
+    },
+    {
+      "order_id": 91,
+      "month": "2025-05",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C008",
+      "revenue": 5925.05,
+      "profit": 1871.05
+    },
+    {
+      "order_id": 93,
+      "month": "2025-03",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 441.06,
+      "profit": 132.32
+    },
+    {
+      "order_id": 94,
+      "month": "2026-03",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C004",
+      "revenue": 554.21,
+      "profit": 99.76
+    },
+    {
+      "order_id": 96,
+      "month": "2025-03",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 13722.18,
+      "profit": 3293.34
+    },
+    {
+      "order_id": 97,
+      "month": "2026-12",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C008",
+      "revenue": 2356.08,
+      "profit": 824.62
+    },
+    {
+      "order_id": 98,
+      "month": "2026-04",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 3558.85,
+      "profit": 486.97
+    },
+    {
+      "order_id": 99,
+      "month": "2026-10",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 9685.56,
+      "profit": 2324.52
+    },
+    {
+      "order_id": 100,
+      "month": "2026-09",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 1270.23,
+      "profit": 444.58
+    },
+    {
+      "order_id": 101,
+      "month": "2026-05",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 3526.85,
+      "profit": 313.49
+    },
+    {
+      "order_id": 103,
+      "month": "2025-06",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C008",
+      "revenue": 6944.31,
+      "profit": 2192.97
+    },
+    {
+      "order_id": 104,
+      "month": "2026-05",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 11091.15,
+      "profit": 1725.3
+    },
+    {
+      "order_id": 105,
+      "month": "2025-12",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 1928.79,
+      "profit": 347.19
+    },
+    {
+      "order_id": 106,
+      "month": "2025-11",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 2229.65,
+      "profit": 668.9
+    },
+    {
+      "order_id": 107,
+      "month": "2026-07",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 2320.95,
+      "profit": 696.3
+    },
+    {
+      "order_id": 108,
+      "month": "2025-02",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C004",
+      "revenue": 2767.72,
+      "profit": 246.02
+    },
+    {
+      "order_id": 109,
+      "month": "2026-10",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C004",
+      "revenue": 1996.45,
+      "profit": 177.45
+    },
+    {
+      "order_id": 110,
+      "month": "2025-04",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C008",
+      "revenue": 4960.67,
+      "profit": 1377.97
+    },
+    {
+      "order_id": 112,
+      "month": "2025-07",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 7580.06,
+      "profit": 802.58
+    },
+    {
+      "order_id": 113,
+      "month": "2025-01",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 1094.08,
+      "profit": 193.09
+    },
+    {
+      "order_id": 114,
+      "month": "2025-12",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 816.25,
+      "profit": 181.39
+    },
+    {
+      "order_id": 115,
+      "month": "2025-08",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 1217.24,
+      "profit": 219.1
+    },
+    {
+      "order_id": 117,
+      "month": "2025-04",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C008",
+      "revenue": 9857.28,
+      "profit": 1043.73
+    },
+    {
+      "order_id": 118,
+      "month": "2026-11",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 441.9,
+      "profit": 132.57
+    },
+    {
+      "order_id": 119,
+      "month": "2026-10",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 1588.96,
+      "profit": 56.08
+    },
+    {
+      "order_id": 120,
+      "month": "2025-02",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 1305.48,
+      "profit": 290.1
+    },
+    {
+      "order_id": 121,
+      "month": "2025-04",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 1184.16,
+      "profit": 213.14
+    },
+    {
+      "order_id": 122,
+      "month": "2025-02",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 578.92,
+      "profit": 104.21
+    },
+    {
+      "order_id": 123,
+      "month": "2026-11",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 4008.23,
+      "profit": 424.41
+    },
+    {
+      "order_id": 124,
+      "month": "2026-08",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 2248.95,
+      "profit": 674.7
+    },
+    {
+      "order_id": 125,
+      "month": "2026-04",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 2356.08,
+      "profit": 322.4
+    },
+    {
+      "order_id": 126,
+      "month": "2026-03",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 2929.18,
+      "profit": 400.83
+    },
+    {
+      "order_id": 128,
+      "month": "2026-08",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C001",
+      "revenue": 515.65,
+      "profit": 45.84
+    },
+    {
+      "order_id": 129,
+      "month": "2025-08",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C004",
+      "revenue": 1081.59,
+      "profit": 38.17
+    },
+    {
+      "order_id": 130,
+      "month": "2026-10",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 15561.78,
+      "profit": 3734.82
+    },
+    {
+      "order_id": 131,
+      "month": "2025-04",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 5964.91,
+      "profit": 1883.66
+    },
+    {
+      "order_id": 132,
+      "month": "2026-01",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 5075.06,
+      "profit": 1218.02
+    },
+    {
+      "order_id": 133,
+      "month": "2026-04",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 1360.53,
+      "profit": 358.02
+    },
+    {
+      "order_id": 134,
+      "month": "2026-07",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 14171.17,
+      "profit": 2204.41
+    },
+    {
+      "order_id": 135,
+      "month": "2026-01",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 2829.63,
+      "profit": 665.79
+    },
+    {
+      "order_id": 136,
+      "month": "2026-09",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 596.58,
+      "profit": 107.38
+    },
+    {
+      "order_id": 138,
+      "month": "2026-07",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C003",
+      "revenue": 2206.64,
+      "profit": 397.2
+    },
+    {
+      "order_id": 139,
+      "month": "2026-11",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 2423.45,
+      "profit": 727.05
+    },
+    {
+      "order_id": 140,
+      "month": "2026-04",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C004",
+      "revenue": 537.77,
+      "profit": 73.59
+    },
+    {
+      "order_id": 142,
+      "month": "2026-09",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 462.75,
+      "profit": 138.83
+    },
+    {
+      "order_id": 143,
+      "month": "2026-07",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C004",
+      "revenue": 3839.45,
+      "profit": 406.53
+    },
+    {
+      "order_id": 144,
+      "month": "2026-09",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 7615.65,
+      "profit": 1827.75
+    },
+    {
+      "order_id": 145,
+      "month": "2025-06",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 3876.53,
+      "profit": 410.45
+    },
+    {
+      "order_id": 146,
+      "month": "2025-06",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 984.04,
+      "profit": 34.72
+    },
+    {
+      "order_id": 147,
+      "month": "2026-05",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 2360.55,
+      "profit": 708.15
+    },
+    {
+      "order_id": 148,
+      "month": "2026-09",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 3852.78,
+      "profit": 906.54
+    },
+    {
+      "order_id": 149,
+      "month": "2026-03",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C002",
+      "revenue": 1155.01,
+      "profit": 320.83
+    },
+    {
+      "order_id": 150,
+      "month": "2025-06",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 433.99,
+      "profit": 130.2
+    },
+    {
+      "order_id": 151,
+      "month": "2026-04",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 2052.48,
+      "profit": 72.44
+    },
+    {
+      "order_id": 152,
+      "month": "2025-08",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 6390.3,
+      "profit": 1503.6
+    },
+    {
+      "order_id": 153,
+      "month": "2025-04",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 1190.4,
+      "profit": 264.54
+    },
+    {
+      "order_id": 154,
+      "month": "2026-05",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 1867.26,
+      "profit": 336.12
+    },
+    {
+      "order_id": 155,
+      "month": "2026-01",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 5034.8,
+      "profit": 1762.16
+    },
+    {
+      "order_id": 157,
+      "month": "2025-08",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C003",
+      "revenue": 1828.05,
+      "profit": 329.04
+    },
+    {
+      "order_id": 158,
+      "month": "2025-10",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 2978.94,
+      "profit": 700.92
+    },
+    {
+      "order_id": 159,
+      "month": "2025-10",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 5163.01,
+      "profit": 1630.41
+    },
+    {
+      "order_id": 160,
+      "month": "2025-03",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 4208.4,
+      "profit": 445.6
+    },
+    {
+      "order_id": 161,
+      "month": "2025-06",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 8559.9,
+      "profit": 1331.54
+    },
+    {
+      "order_id": 162,
+      "month": "2026-09",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 1117.78,
+      "profit": 391.22
+    },
+    {
+      "order_id": 163,
+      "month": "2025-10",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 1512.25,
+      "profit": 266.85
+    },
+    {
+      "order_id": 164,
+      "month": "2026-11",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 3051.81,
+      "profit": 718.08
+    },
+    {
+      "order_id": 165,
+      "month": "2025-08",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 1152.34,
+      "profit": 403.32
+    },
+    {
+      "order_id": 166,
+      "month": "2025-06",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 1133.35,
+      "profit": 314.82
+    },
+    {
+      "order_id": 167,
+      "month": "2025-12",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 10880.04,
+      "profit": 1151.99
+    },
+    {
+      "order_id": 168,
+      "month": "2025-03",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C006",
+      "revenue": 4761.36,
+      "profit": 1666.48
+    },
+    {
+      "order_id": 169,
+      "month": "2025-11",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 1324.35,
+      "profit": 397.32
+    },
+    {
+      "order_id": 170,
+      "month": "2025-09",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 577.21,
+      "profit": 51.31
+    },
+    {
+      "order_id": 171,
+      "month": "2025-06",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 1211.08,
+      "profit": 318.7
+    },
+    {
+      "order_id": 172,
+      "month": "2026-10",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 7151.05,
+      "profit": 1430.2
+    },
+    {
+      "order_id": 174,
+      "month": "2026-04",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 1609.53,
+      "profit": 284.05
+    },
+    {
+      "order_id": 175,
+      "month": "2025-10",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 4433.51,
+      "profit": 1231.55
+    },
+    {
+      "order_id": 176,
+      "month": "2026-01",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 1960.24,
+      "profit": 174.24
+    },
+    {
+      "order_id": 177,
+      "month": "2026-04",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 5107.22,
+      "profit": 1201.67
+    },
+    {
+      "order_id": 178,
+      "month": "2025-06",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 6090.16,
+      "profit": 644.83
+    },
+    {
+      "order_id": 179,
+      "month": "2025-06",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C001",
+      "revenue": 3603.3,
+      "profit": 648.6
+    },
+    {
+      "order_id": 180,
+      "month": "2026-01",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 1954.49,
+      "profit": 344.89
+    },
+    {
+      "order_id": 181,
+      "month": "2026-10",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 2786.03,
+      "profit": 98.33
+    },
+    {
+      "order_id": 182,
+      "month": "2026-11",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 1339.9,
+      "profit": 352.6
+    },
+    {
+      "order_id": 183,
+      "month": "2026-12",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 7479.8,
+      "profit": 1495.97
+    },
+    {
+      "order_id": 184,
+      "month": "2025-12",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 2984.52,
+      "profit": 702.24
+    },
+    {
+      "order_id": 185,
+      "month": "2025-11",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 1931.54,
+      "profit": 508.29
+    },
+    {
+      "order_id": 186,
+      "month": "2025-06",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 990.0,
+      "profit": 297.0
+    },
+    {
+      "order_id": 187,
+      "month": "2026-06",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 5441.83,
+      "profit": 1280.43
+    },
+    {
+      "order_id": 188,
+      "month": "2025-07",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 10053.18,
+      "profit": 1563.83
+    },
+    {
+      "order_id": 189,
+      "month": "2026-09",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 3938.1,
+      "profit": 708.84
+    },
+    {
+      "order_id": 190,
+      "month": "2025-07",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 7003.56,
+      "profit": 1089.45
+    },
+    {
+      "order_id": 191,
+      "month": "2025-06",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C004",
+      "revenue": 2051.22,
+      "profit": 72.38
+    },
+    {
+      "order_id": 192,
+      "month": "2026-07",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C002",
+      "revenue": 6964.87,
+      "profit": 1934.71
+    },
+    {
+      "order_id": 194,
+      "month": "2026-03",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 9905.19,
+      "profit": 1981.03
+    },
+    {
+      "order_id": 195,
+      "month": "2025-01",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 9359.84,
+      "profit": 2246.36
+    },
+    {
+      "order_id": 196,
+      "month": "2026-04",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C003",
+      "revenue": 1089.2,
+      "profit": 196.06
+    },
+    {
+      "order_id": 197,
+      "month": "2025-06",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 1141.42,
+      "profit": 399.5
+    },
+    {
+      "order_id": 198,
+      "month": "2026-03",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C008",
+      "revenue": 6548.76,
+      "profit": 1571.7
+    },
+    {
+      "order_id": 199,
+      "month": "2026-06",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 1727.54,
+      "profit": 304.84
+    },
+    {
+      "order_id": 200,
+      "month": "2026-03",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 5404.26,
+      "profit": 1706.61
+    },
+    {
+      "order_id": 201,
+      "month": "2026-06",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C001",
+      "revenue": 514.5,
+      "profit": 18.16
+    },
+    {
+      "order_id": 202,
+      "month": "2025-09",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 7103.43,
+      "profit": 1973.19
+    },
+    {
+      "order_id": 203,
+      "month": "2025-12",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C003",
+      "revenue": 1265.16,
+      "profit": 227.72
+    },
+    {
+      "order_id": 204,
+      "month": "2026-12",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 3837.9,
+      "profit": 690.84
+    },
+    {
+      "order_id": 205,
+      "month": "2025-07",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 1959.98,
+      "profit": 304.89
+    },
+    {
+      "order_id": 206,
+      "month": "2026-07",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 1498.86,
+      "profit": 52.89
+    },
+    {
+      "order_id": 207,
+      "month": "2025-02",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 7335.42,
+      "profit": 1467.09
+    },
+    {
+      "order_id": 208,
+      "month": "2026-01",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 2265.12,
+      "profit": 201.36
+    },
+    {
+      "order_id": 209,
+      "month": "2025-03",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C007",
+      "revenue": 1093.95,
+      "profit": 193.05
+    },
+    {
+      "order_id": 210,
+      "month": "2025-03",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 10992.36,
+      "profit": 2198.46
+    },
+    {
+      "order_id": 211,
+      "month": "2025-02",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 785.95,
+      "profit": 174.65
+    },
+    {
+      "order_id": 212,
+      "month": "2026-11",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 1050.47,
+      "profit": 291.8
+    },
+    {
+      "order_id": 213,
+      "month": "2026-10",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 411.05,
+      "profit": 123.31
+    },
+    {
+      "order_id": 214,
+      "month": "2026-01",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C006",
+      "revenue": 6214.85,
+      "profit": 2175.2
+    },
+    {
+      "order_id": 216,
+      "month": "2026-02",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C002",
+      "revenue": 7198.62,
+      "profit": 2519.52
+    },
+    {
+      "order_id": 217,
+      "month": "2026-05",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 732.19,
+      "profit": 129.21
+    },
+    {
+      "order_id": 218,
+      "month": "2026-04",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C002",
+      "revenue": 5182.72,
+      "profit": 1813.96
+    },
+    {
+      "order_id": 219,
+      "month": "2025-11",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 4886.18,
+      "profit": 1149.68
+    },
+    {
+      "order_id": 220,
+      "month": "2025-08",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C008",
+      "revenue": 2540.19,
+      "profit": 609.65
+    },
+    {
+      "order_id": 221,
+      "month": "2025-03",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 1888.94,
+      "profit": 66.66
+    },
+    {
+      "order_id": 223,
+      "month": "2025-12",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 4475.63,
+      "profit": 1243.23
+    },
+    {
+      "order_id": 224,
+      "month": "2025-02",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 8830.28,
+      "profit": 934.96
+    },
+    {
+      "order_id": 225,
+      "month": "2026-06",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 6978.27,
+      "profit": 1674.78
+    },
+    {
+      "order_id": 226,
+      "month": "2025-04",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C003",
+      "revenue": 1166.09,
+      "profit": 159.57
+    },
+    {
+      "order_id": 228,
+      "month": "2026-03",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C001",
+      "revenue": 3792.24,
+      "profit": 682.62
+    },
+    {
+      "order_id": 229,
+      "month": "2026-12",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 3408.31,
+      "profit": 466.39
+    },
+    {
+      "order_id": 230,
+      "month": "2026-04",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 2123.55,
+      "profit": 589.87
+    },
+    {
+      "order_id": 231,
+      "month": "2025-12",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 3580.17,
+      "profit": 489.93
+    },
+    {
+      "order_id": 232,
+      "month": "2025-10",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C008",
+      "revenue": 3575.85,
+      "profit": 1251.54
+    },
+    {
+      "order_id": 233,
+      "month": "2026-03",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 3475.98,
+      "profit": 965.55
+    },
+    {
+      "order_id": 234,
+      "month": "2026-06",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 1199.58,
+      "profit": 215.92
+    },
+    {
+      "order_id": 235,
+      "month": "2026-06",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 490.07,
+      "profit": 147.02
+    },
+    {
+      "order_id": 236,
+      "month": "2026-09",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 573.76,
+      "profit": 103.28
+    },
+    {
+      "order_id": 237,
+      "month": "2026-01",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 5167.16,
+      "profit": 1808.52
+    },
+    {
+      "order_id": 238,
+      "month": "2026-07",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 4788.56,
+      "profit": 1126.71
+    },
+    {
+      "order_id": 240,
+      "month": "2026-01",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 1297.32,
+      "profit": 341.4
+    },
+    {
+      "order_id": 241,
+      "month": "2025-05",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 2045.4,
+      "profit": 613.6
+    },
+    {
+      "order_id": 242,
+      "month": "2026-09",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 9465.13,
+      "profit": 1002.18
+    },
+    {
+      "order_id": 243,
+      "month": "2026-06",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 2854.18,
+      "profit": 390.58
+    },
+    {
+      "order_id": 244,
+      "month": "2026-03",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 3538.87,
+      "profit": 1117.54
+    },
+    {
+      "order_id": 245,
+      "month": "2025-02",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 3107.53,
+      "profit": 109.69
+    },
+    {
+      "order_id": 246,
+      "month": "2026-12",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 815.68,
+      "profit": 244.7
+    },
+    {
+      "order_id": 247,
+      "month": "2025-07",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 2358.24,
+      "profit": 424.48
+    },
+    {
+      "order_id": 248,
+      "month": "2026-07",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C006",
+      "revenue": 7226.88,
+      "profit": 2529.42
+    },
+    {
+      "order_id": 249,
+      "month": "2025-12",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 1169.01,
+      "profit": 103.91
+    },
+    {
+      "order_id": 250,
+      "month": "2025-08",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 4612.97,
+      "profit": 922.59
+    },
+    {
+      "order_id": 251,
+      "month": "2025-10",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 1178.25,
+      "profit": 261.84
+    },
+    {
+      "order_id": 252,
+      "month": "2025-05",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 1865.46,
+      "profit": 490.9
+    },
+    {
+      "order_id": 253,
+      "month": "2026-05",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 3341.06,
+      "profit": 928.07
+    },
+    {
+      "order_id": 254,
+      "month": "2026-09",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C004",
+      "revenue": 2643.23,
+      "profit": 361.68
+    },
+    {
+      "order_id": 255,
+      "month": "2026-02",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 13111.2,
+      "profit": 3146.7
+    },
+    {
+      "order_id": 256,
+      "month": "2025-06",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 2234.99,
+      "profit": 236.65
+    },
+    {
+      "order_id": 257,
+      "month": "2025-03",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 6546.45,
+      "profit": 1309.29
+    },
+    {
+      "order_id": 258,
+      "month": "2025-06",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 2325.13,
+      "profit": 645.87
+    },
+    {
+      "order_id": 259,
+      "month": "2025-01",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 14710.79,
+      "profit": 2942.15
+    },
+    {
+      "order_id": 260,
+      "month": "2026-07",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 1778.46,
+      "profit": 158.07
+    },
+    {
+      "order_id": 261,
+      "month": "2025-12",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 1433.37,
+      "profit": 430.02
+    },
+    {
+      "order_id": 262,
+      "month": "2026-08",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C004",
+      "revenue": 2412.59,
+      "profit": 482.52
+    },
+    {
+      "order_id": 264,
+      "month": "2026-01",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 1216.83,
+      "profit": 365.04
+    },
+    {
+      "order_id": 265,
+      "month": "2025-01",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 1598.21,
+      "profit": 56.39
+    },
+    {
+      "order_id": 266,
+      "month": "2025-06",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 7150.14,
+      "profit": 2502.54
+    },
+    {
+      "order_id": 267,
+      "month": "2025-05",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 1444.58,
+      "profit": 50.99
+    },
+    {
+      "order_id": 268,
+      "month": "2026-07",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C004",
+      "revenue": 2208.44,
+      "profit": 77.96
+    },
+    {
+      "order_id": 269,
+      "month": "2026-01",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C002",
+      "revenue": 5430.42,
+      "profit": 1508.47
+    },
+    {
+      "order_id": 270,
+      "month": "2025-12",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C008",
+      "revenue": 9485.7,
+      "profit": 1004.35
+    },
+    {
+      "order_id": 271,
+      "month": "2025-02",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 378.33,
+      "profit": 66.77
+    },
+    {
+      "order_id": 272,
+      "month": "2026-11",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 2276.45,
+      "profit": 682.95
+    },
+    {
+      "order_id": 273,
+      "month": "2025-02",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 7312.74,
+      "profit": 2559.48
+    },
+    {
+      "order_id": 274,
+      "month": "2026-02",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 978.86,
+      "profit": 271.91
+    },
+    {
+      "order_id": 275,
+      "month": "2026-01",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C007",
+      "revenue": 1202.5,
+      "profit": 267.22
+    },
+    {
+      "order_id": 276,
+      "month": "2026-07",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 12636.56,
+      "profit": 2527.34
+    },
+    {
+      "order_id": 277,
+      "month": "2026-04",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 2629.68,
+      "profit": 631.12
+    },
+    {
+      "order_id": 278,
+      "month": "2025-07",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 8490.95,
+      "profit": 1698.19
+    },
+    {
+      "order_id": 279,
+      "month": "2025-03",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 2133.3,
+      "profit": 640.0
+    },
+    {
+      "order_id": 280,
+      "month": "2025-08",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 2353.08,
+      "profit": 823.58
+    },
+    {
+      "order_id": 281,
+      "month": "2026-09",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 983.06,
+      "profit": 34.7
+    },
+    {
+      "order_id": 282,
+      "month": "2025-11",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 11557.11,
+      "profit": 1223.67
+    },
+    {
+      "order_id": 283,
+      "month": "2025-02",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 13104.77,
+      "profit": 2038.49
+    },
+    {
+      "order_id": 284,
+      "month": "2025-11",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 3180.55,
+      "profit": 282.73
+    },
+    {
+      "order_id": 285,
+      "month": "2026-12",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 864.14,
+      "profit": 259.24
+    },
+    {
+      "order_id": 286,
+      "month": "2026-02",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 1539.18,
+      "profit": 271.62
+    },
+    {
+      "order_id": 287,
+      "month": "2025-07",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 4188.32,
+      "profit": 1322.64
+    },
+    {
+      "order_id": 288,
+      "month": "2026-08",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 1273.12,
+      "profit": 445.59
+    },
+    {
+      "order_id": 289,
+      "month": "2025-07",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 1696.26,
+      "profit": 305.34
+    },
+    {
+      "order_id": 290,
+      "month": "2025-10",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 9700.0,
+      "profit": 2328.0
+    },
+    {
+      "order_id": 291,
+      "month": "2026-05",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 1662.01,
+      "profit": 227.44
+    },
+    {
+      "order_id": 292,
+      "month": "2026-02",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 1315.08,
+      "profit": 394.53
+    },
+    {
+      "order_id": 293,
+      "month": "2026-08",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 3326.07,
+      "profit": 782.61
+    },
+    {
+      "order_id": 294,
+      "month": "2025-09",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 1095.07,
+      "profit": 97.35
+    },
+    {
+      "order_id": 295,
+      "month": "2025-12",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 2410.94,
+      "profit": 535.76
+    },
+    {
+      "order_id": 297,
+      "month": "2026-10",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 1001.7,
+      "profit": 278.25
+    },
+    {
+      "order_id": 298,
+      "month": "2025-03",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C008",
+      "revenue": 2022.05,
+      "profit": 475.77
+    },
+    {
+      "order_id": 299,
+      "month": "2025-10",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 452.65,
+      "profit": 135.8
+    },
+    {
+      "order_id": 300,
+      "month": "2026-06",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 975.24,
+      "profit": 292.58
+    },
+    {
+      "order_id": 301,
+      "month": "2025-03",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 1810.86,
+      "profit": 247.8
+    },
+    {
+      "order_id": 302,
+      "month": "2025-03",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 13823.94,
+      "profit": 3317.76
+    },
+    {
+      "order_id": 303,
+      "month": "2025-01",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 1845.22,
+      "profit": 410.07
+    },
+    {
+      "order_id": 304,
+      "month": "2025-04",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 2598.8,
+      "profit": 683.9
+    },
+    {
+      "order_id": 305,
+      "month": "2026-12",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 1464.51,
+      "profit": 439.35
+    },
+    {
+      "order_id": 306,
+      "month": "2026-12",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 610.44,
+      "profit": 109.88
+    },
+    {
+      "order_id": 307,
+      "month": "2026-07",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 11182.41,
+      "profit": 1739.51
+    },
+    {
+      "order_id": 308,
+      "month": "2025-12",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 14402.28,
+      "profit": 3456.54
+    },
+    {
+      "order_id": 309,
+      "month": "2026-09",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 3224.63,
+      "profit": 758.75
+    },
+    {
+      "order_id": 310,
+      "month": "2026-07",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 2042.57,
+      "profit": 181.57
+    },
+    {
+      "order_id": 311,
+      "month": "2025-09",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 366.84,
+      "profit": 64.73
+    },
+    {
+      "order_id": 312,
+      "month": "2025-11",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 2829.42,
+      "profit": 848.82
+    },
+    {
+      "order_id": 313,
+      "month": "2025-04",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C003",
+      "revenue": 2399.17,
+      "profit": 328.29
+    },
+    {
+      "order_id": 314,
+      "month": "2025-04",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 1917.26,
+      "profit": 338.36
+    },
+    {
+      "order_id": 315,
+      "month": "2026-01",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 5390.15,
+      "profit": 1268.25
+    },
+    {
+      "order_id": 316,
+      "month": "2025-09",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 6615.98,
+      "profit": 1556.72
+    },
+    {
+      "order_id": 317,
+      "month": "2025-03",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C003",
+      "revenue": 1707.63,
+      "profit": 233.67
+    },
+    {
+      "order_id": 318,
+      "month": "2025-09",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 2333.32,
+      "profit": 420.0
+    },
+    {
+      "order_id": 319,
+      "month": "2025-12",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 7846.32,
+      "profit": 1883.13
+    },
+    {
+      "order_id": 320,
+      "month": "2025-11",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 2127.98,
+      "profit": 375.56
+    },
+    {
+      "order_id": 321,
+      "month": "2026-10",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 1342.75,
+      "profit": 353.35
+    },
+    {
+      "order_id": 322,
+      "month": "2026-08",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C004",
+      "revenue": 2103.95,
+      "profit": 287.91
+    },
+    {
+      "order_id": 323,
+      "month": "2025-08",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C008",
+      "revenue": 7054.07,
+      "profit": 1959.47
+    },
+    {
+      "order_id": 324,
+      "month": "2025-11",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 4008.24,
+      "profit": 1113.4
+    },
+    {
+      "order_id": 325,
+      "month": "2026-09",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 1781.68,
+      "profit": 534.52
+    },
+    {
+      "order_id": 326,
+      "month": "2026-01",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 2380.8,
+      "profit": 714.25
+    },
+    {
+      "order_id": 328,
+      "month": "2025-08",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 413.87,
+      "profit": 124.16
+    },
+    {
+      "order_id": 329,
+      "month": "2025-06",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 2382.41,
+      "profit": 420.41
+    },
+    {
+      "order_id": 330,
+      "month": "2025-05",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 2215.72,
+      "profit": 398.84
+    },
+    {
+      "order_id": 331,
+      "month": "2025-04",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C008",
+      "revenue": 10472.31,
+      "profit": 1629.01
+    },
+    {
+      "order_id": 332,
+      "month": "2025-12",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 542.71,
+      "profit": 97.69
+    },
+    {
+      "order_id": 333,
+      "month": "2025-12",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 12124.6,
+      "profit": 2909.9
+    },
+    {
+      "order_id": 334,
+      "month": "2026-11",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C007",
+      "revenue": 2530.62,
+      "profit": 759.18
+    },
+    {
+      "order_id": 335,
+      "month": "2025-01",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C004",
+      "revenue": 8045.05,
+      "profit": 851.85
+    },
+    {
+      "order_id": 336,
+      "month": "2026-07",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 6359.4,
+      "profit": 2225.8
+    },
+    {
+      "order_id": 337,
+      "month": "2026-05",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 442.09,
+      "profit": 116.34
+    },
+    {
+      "order_id": 338,
+      "month": "2026-09",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 3656.32,
+      "profit": 1154.62
+    },
+    {
+      "order_id": 339,
+      "month": "2025-09",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 6930.96,
+      "profit": 2425.86
+    },
+    {
+      "order_id": 340,
+      "month": "2025-05",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 10623.38,
+      "profit": 1652.53
+    },
+    {
+      "order_id": 341,
+      "month": "2025-05",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 11975.15,
+      "profit": 2874.05
+    },
+    {
+      "order_id": 342,
+      "month": "2025-07",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 3588.93,
+      "profit": 1256.13
+    },
+    {
+      "order_id": 343,
+      "month": "2025-03",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 1616.33,
+      "profit": 359.17
+    },
+    {
+      "order_id": 344,
+      "month": "2026-04",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 976.89,
+      "profit": 34.49
+    },
+    {
+      "order_id": 346,
+      "month": "2025-02",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C008",
+      "revenue": 6908.7,
+      "profit": 2418.06
+    },
+    {
+      "order_id": 347,
+      "month": "2025-08",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 5064.6,
+      "profit": 1772.6
+    },
+    {
+      "order_id": 348,
+      "month": "2025-07",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 709.8,
+      "profit": 125.26
+    },
+    {
+      "order_id": 349,
+      "month": "2026-12",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 2380.89,
+      "profit": 84.04
+    },
+    {
+      "order_id": 350,
+      "month": "2025-10",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 2340.9,
+      "profit": 650.24
+    },
+    {
+      "order_id": 351,
+      "month": "2026-08",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 1077.73,
+      "profit": 95.79
+    },
+    {
+      "order_id": 353,
+      "month": "2025-04",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 3221.35,
+      "profit": 579.85
+    },
+    {
+      "order_id": 354,
+      "month": "2026-05",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 862.63,
+      "profit": 191.69
+    },
+    {
+      "order_id": 355,
+      "month": "2026-05",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 2361.6,
+      "profit": 83.35
+    },
+    {
+      "order_id": 356,
+      "month": "2025-06",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 488.65,
+      "profit": 146.6
+    },
+    {
+      "order_id": 357,
+      "month": "2025-11",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 968.78,
+      "profit": 290.64
+    },
+    {
+      "order_id": 358,
+      "month": "2026-10",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C003",
+      "revenue": 1753.86,
+      "profit": 315.69
+    },
+    {
+      "order_id": 359,
+      "month": "2025-04",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 3549.06,
+      "profit": 638.82
+    },
+    {
+      "order_id": 360,
+      "month": "2026-11",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C008",
+      "revenue": 1928.29,
+      "profit": 453.71
+    },
+    {
+      "order_id": 361,
+      "month": "2026-05",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 560.95,
+      "profit": 49.86
+    },
+    {
+      "order_id": 362,
+      "month": "2025-11",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 1109.8,
+      "profit": 350.46
+    },
+    {
+      "order_id": 363,
+      "month": "2026-07",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 13157.04,
+      "profit": 3157.68
+    },
+    {
+      "order_id": 364,
+      "month": "2026-09",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C008",
+      "revenue": 15609.3,
+      "profit": 3746.22
+    },
+    {
+      "order_id": 365,
+      "month": "2026-01",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C006",
+      "revenue": 2443.0,
+      "profit": 855.04
+    },
+    {
+      "order_id": 366,
+      "month": "2025-09",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 4691.9,
+      "profit": 938.38
+    },
+    {
+      "order_id": 367,
+      "month": "2025-07",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 1041.81,
+      "profit": 36.77
+    },
+    {
+      "order_id": 369,
+      "month": "2026-08",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 1157.94,
+      "profit": 102.92
+    },
+    {
+      "order_id": 370,
+      "month": "2025-03",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 8672.04,
+      "profit": 2081.28
+    },
+    {
+      "order_id": 371,
+      "month": "2026-12",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 3905.78,
+      "profit": 919.02
+    },
+    {
+      "order_id": 372,
+      "month": "2025-06",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 6166.1,
+      "profit": 1450.82
+    },
+    {
+      "order_id": 373,
+      "month": "2026-08",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 3938.63,
+      "profit": 417.03
+    },
+    {
+      "order_id": 374,
+      "month": "2026-03",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 2201.38,
+      "profit": 528.33
+    },
+    {
+      "order_id": 375,
+      "month": "2026-12",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 3326.01,
+      "profit": 1164.09
+    },
+    {
+      "order_id": 376,
+      "month": "2025-09",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C003",
+      "revenue": 2694.33,
+      "profit": 95.08
+    },
+    {
+      "order_id": 377,
+      "month": "2025-01",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 3795.42,
+      "profit": 683.16
+    },
+    {
+      "order_id": 378,
+      "month": "2026-05",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C008",
+      "revenue": 3138.06,
+      "profit": 738.36
+    },
+    {
+      "order_id": 379,
+      "month": "2025-04",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 6847.38,
+      "profit": 1643.37
+    },
+    {
+      "order_id": 380,
+      "month": "2026-04",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C006",
+      "revenue": 1138.69,
+      "profit": 398.54
+    },
+    {
+      "order_id": 381,
+      "month": "2026-11",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 2163.67,
+      "profit": 229.09
+    },
+    {
+      "order_id": 382,
+      "month": "2025-03",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 2447.64,
+      "profit": 644.1
+    },
+    {
+      "order_id": 383,
+      "month": "2025-02",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 2546.08,
+      "profit": 891.12
+    },
+    {
+      "order_id": 384,
+      "month": "2026-04",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C001",
+      "revenue": 1568.55,
+      "profit": 214.65
+    },
+    {
+      "order_id": 385,
+      "month": "2026-01",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 2902.46,
+      "profit": 102.44
+    },
+    {
+      "order_id": 386,
+      "month": "2025-01",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C004",
+      "revenue": 5215.1,
+      "profit": 1251.62
+    },
+    {
+      "order_id": 387,
+      "month": "2026-01",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 3786.42,
+      "profit": 1325.25
+    },
+    {
+      "order_id": 388,
+      "month": "2025-05",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 9436.93,
+      "profit": 1467.97
+    },
+    {
+      "order_id": 389,
+      "month": "2026-01",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C008",
+      "revenue": 11233.84,
+      "profit": 1747.49
+    },
+    {
+      "order_id": 390,
+      "month": "2026-08",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 11857.97,
+      "profit": 1844.57
+    },
+    {
+      "order_id": 391,
+      "month": "2025-11",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 4342.03,
+      "profit": 868.41
+    },
+    {
+      "order_id": 392,
+      "month": "2025-05",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 1306.46,
+      "profit": 235.16
+    },
+    {
+      "order_id": 393,
+      "month": "2026-07",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 1678.04,
+      "profit": 441.6
+    },
+    {
+      "order_id": 394,
+      "month": "2026-12",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 1239.42,
+      "profit": 371.82
+    },
+    {
+      "order_id": 395,
+      "month": "2025-12",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 1250.68,
+      "profit": 225.12
+    },
+    {
+      "order_id": 396,
+      "month": "2026-04",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C004",
+      "revenue": 1308.5,
+      "profit": 235.52
+    },
+    {
+      "order_id": 397,
+      "month": "2025-08",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 2189.6,
+      "profit": 525.5
+    },
+    {
+      "order_id": 399,
+      "month": "2025-04",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 13761.68,
+      "profit": 2140.7
+    },
+    {
+      "order_id": 400,
+      "month": "2026-03",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C007",
+      "revenue": 488.17,
+      "profit": 146.45
+    },
+    {
+      "order_id": 401,
+      "month": "2025-07",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 806.21,
+      "profit": 212.17
+    },
+    {
+      "order_id": 402,
+      "month": "2025-09",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 2088.62,
+      "profit": 221.15
+    },
+    {
+      "order_id": 403,
+      "month": "2025-05",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C007",
+      "revenue": 430.18,
+      "profit": 129.05
+    },
+    {
+      "order_id": 404,
+      "month": "2026-01",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 12961.8,
+      "profit": 1372.44
+    },
+    {
+      "order_id": 405,
+      "month": "2026-02",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 1148.06,
+      "profit": 202.61
+    },
+    {
+      "order_id": 407,
+      "month": "2025-02",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 2287.94,
+      "profit": 800.78
+    },
+    {
+      "order_id": 408,
+      "month": "2026-12",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 4888.82,
+      "profit": 1173.32
+    },
+    {
+      "order_id": 409,
+      "month": "2025-07",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 2367.46,
+      "profit": 83.56
+    },
+    {
+      "order_id": 410,
+      "month": "2025-08",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 1135.83,
+      "profit": 397.54
+    },
+    {
+      "order_id": 411,
+      "month": "2025-11",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 4757.85,
+      "profit": 951.57
+    },
+    {
+      "order_id": 412,
+      "month": "2025-03",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 2187.15,
+      "profit": 231.58
+    },
+    {
+      "order_id": 413,
+      "month": "2025-06",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 1585.65,
+      "profit": 216.99
+    },
+    {
+      "order_id": 414,
+      "month": "2026-09",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 12713.84,
+      "profit": 1346.18
+    },
+    {
+      "order_id": 415,
+      "month": "2025-10",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 9546.82,
+      "profit": 1909.38
+    },
+    {
+      "order_id": 416,
+      "month": "2025-11",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 2106.95,
+      "profit": 632.1
+    },
+    {
+      "order_id": 417,
+      "month": "2025-11",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 6822.72,
+      "profit": 1637.46
+    },
+    {
+      "order_id": 418,
+      "month": "2025-09",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 2287.32,
+      "profit": 411.72
+    },
+    {
+      "order_id": 419,
+      "month": "2026-03",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 6549.36,
+      "profit": 2292.3
+    },
+    {
+      "order_id": 420,
+      "month": "2025-04",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 1725.73,
+      "profit": 454.13
+    },
+    {
+      "order_id": 421,
+      "month": "2025-09",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C002",
+      "revenue": 1030.58,
+      "profit": 325.45
+    },
+    {
+      "order_id": 422,
+      "month": "2025-04",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 908.46,
+      "profit": 272.54
+    },
+    {
+      "order_id": 423,
+      "month": "2026-03",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 2757.96,
+      "profit": 827.4
+    },
+    {
+      "order_id": 424,
+      "month": "2026-07",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 4490.37,
+      "profit": 698.51
+    },
+    {
+      "order_id": 425,
+      "month": "2026-05",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 1095.5,
+      "profit": 304.31
+    },
+    {
+      "order_id": 426,
+      "month": "2026-10",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 455.19,
+      "profit": 119.79
+    },
+    {
+      "order_id": 427,
+      "month": "2026-04",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 4995.08,
+      "profit": 999.02
+    },
+    {
+      "order_id": 428,
+      "month": "2026-07",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C007",
+      "revenue": 1570.16,
+      "profit": 413.2
+    },
+    {
+      "order_id": 429,
+      "month": "2025-09",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 1335.36,
+      "profit": 400.62
+    },
+    {
+      "order_id": 430,
+      "month": "2026-12",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 2790.7,
+      "profit": 502.35
+    },
+    {
+      "order_id": 431,
+      "month": "2026-02",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C007",
+      "revenue": 2274.1,
+      "profit": 682.25
+    },
+    {
+      "order_id": 433,
+      "month": "2025-07",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 984.98,
+      "profit": 295.5
+    },
+    {
+      "order_id": 434,
+      "month": "2025-09",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 960.14,
+      "profit": 288.04
+    },
+    {
+      "order_id": 435,
+      "month": "2026-06",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 2289.98,
+      "profit": 602.63
+    },
+    {
+      "order_id": 436,
+      "month": "2026-08",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 376.62,
+      "profit": 83.69
+    },
+    {
+      "order_id": 437,
+      "month": "2026-02",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 3292.64,
+      "profit": 774.74
+    },
+    {
+      "order_id": 438,
+      "month": "2025-05",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C007",
+      "revenue": 429.79,
+      "profit": 128.94
+    },
+    {
+      "order_id": 439,
+      "month": "2026-05",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 3275.46,
+      "profit": 589.56
+    },
+    {
+      "order_id": 440,
+      "month": "2026-12",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 1827.25,
+      "profit": 250.06
+    },
+    {
+      "order_id": 441,
+      "month": "2026-09",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 1341.18,
+      "profit": 352.95
+    },
+    {
+      "order_id": 442,
+      "month": "2026-01",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 2556.09,
+      "profit": 568.05
+    },
+    {
+      "order_id": 443,
+      "month": "2025-01",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 823.04,
+      "profit": 145.24
+    },
+    {
+      "order_id": 444,
+      "month": "2025-02",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 2175.87,
+      "profit": 522.21
+    },
+    {
+      "order_id": 445,
+      "month": "2025-05",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 2079.86,
+      "profit": 462.21
+    },
+    {
+      "order_id": 446,
+      "month": "2025-12",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 824.08,
+      "profit": 183.14
+    },
+    {
+      "order_id": 447,
+      "month": "2026-01",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C001",
+      "revenue": 3445.26,
+      "profit": 620.16
+    },
+    {
+      "order_id": 448,
+      "month": "2025-10",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 4970.58,
+      "profit": 1192.94
+    },
+    {
+      "order_id": 449,
+      "month": "2026-09",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 4941.48,
+      "profit": 1729.52
+    },
+    {
+      "order_id": 450,
+      "month": "2026-01",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 3367.9,
+      "profit": 460.84
+    },
+    {
+      "order_id": 451,
+      "month": "2026-02",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 1221.93,
+      "profit": 215.64
+    },
+    {
+      "order_id": 452,
+      "month": "2025-11",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 2605.63,
+      "profit": 91.98
+    },
+    {
+      "order_id": 453,
+      "month": "2025-09",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 3667.27,
+      "profit": 501.85
+    },
+    {
+      "order_id": 454,
+      "month": "2025-11",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 2000.87,
+      "profit": 211.85
+    },
+    {
+      "order_id": 455,
+      "month": "2025-02",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C004",
+      "revenue": 1589.08,
+      "profit": 141.25
+    },
+    {
+      "order_id": 456,
+      "month": "2026-05",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 12578.59,
+      "profit": 1331.83
+    },
+    {
+      "order_id": 457,
+      "month": "2025-09",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 7157.91,
+      "profit": 1717.89
+    },
+    {
+      "order_id": 458,
+      "month": "2025-11",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 7551.66,
+      "profit": 1812.39
+    },
+    {
+      "order_id": 459,
+      "month": "2026-10",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 2385.84,
+      "profit": 429.44
+    },
+    {
+      "order_id": 460,
+      "month": "2026-02",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 6518.66,
+      "profit": 1810.76
+    },
+    {
+      "order_id": 461,
+      "month": "2026-04",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 7111.4,
+      "profit": 1106.21
+    },
+    {
+      "order_id": 462,
+      "month": "2025-07",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 2087.69,
+      "profit": 324.75
+    },
+    {
+      "order_id": 463,
+      "month": "2025-06",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 1218.3,
+      "profit": 219.3
+    },
+    {
+      "order_id": 464,
+      "month": "2026-05",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C007",
+      "revenue": 2383.07,
+      "profit": 529.55
+    },
+    {
+      "order_id": 465,
+      "month": "2025-11",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C004",
+      "revenue": 14911.37,
+      "profit": 2982.29
+    },
+    {
+      "order_id": 466,
+      "month": "2025-04",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 4388.62,
+      "profit": 877.72
+    },
+    {
+      "order_id": 467,
+      "month": "2026-06",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C006",
+      "revenue": 3389.85,
+      "profit": 1070.49
+    },
+    {
+      "order_id": 468,
+      "month": "2025-07",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 6297.59,
+      "profit": 979.64
+    },
+    {
+      "order_id": 469,
+      "month": "2025-01",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 13568.22,
+      "profit": 3256.38
+    },
+    {
+      "order_id": 470,
+      "month": "2026-10",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 4807.38,
+      "profit": 1518.14
+    },
+    {
+      "order_id": 471,
+      "month": "2026-01",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C002",
+      "revenue": 1180.03,
+      "profit": 413.01
+    },
+    {
+      "order_id": 472,
+      "month": "2026-11",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 4609.08,
+      "profit": 1106.18
+    },
+    {
+      "order_id": 473,
+      "month": "2026-09",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 9622.24,
+      "profit": 2309.32
+    },
+    {
+      "order_id": 474,
+      "month": "2025-09",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 4904.64,
+      "profit": 1716.64
+    },
+    {
+      "order_id": 475,
+      "month": "2025-08",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 1211.56,
+      "profit": 218.08
+    },
+    {
+      "order_id": 478,
+      "month": "2025-06",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C001",
+      "revenue": 1474.23,
+      "profit": 131.04
+    },
+    {
+      "order_id": 479,
+      "month": "2025-02",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C001",
+      "revenue": 2205.6,
+      "profit": 397.0
+    },
+    {
+      "order_id": 480,
+      "month": "2026-09",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 7379.7,
+      "profit": 1475.94
+    },
+    {
+      "order_id": 481,
+      "month": "2026-04",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 1176.18,
+      "profit": 211.72
+    },
+    {
+      "order_id": 482,
+      "month": "2026-12",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 1660.72,
+      "profit": 498.2
+    },
+    {
+      "order_id": 483,
+      "month": "2026-01",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 1895.9,
+      "profit": 421.3
+    },
+    {
+      "order_id": 484,
+      "month": "2026-02",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C008",
+      "revenue": 7971.16,
+      "profit": 1239.96
+    },
+    {
+      "order_id": 485,
+      "month": "2026-08",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C004",
+      "revenue": 537.28,
+      "profit": 18.96
+    },
+    {
+      "order_id": 486,
+      "month": "2026-11",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 4782.64,
+      "profit": 1673.92
+    },
+    {
+      "order_id": 487,
+      "month": "2026-04",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C008",
+      "revenue": 1201.34,
+      "profit": 420.47
+    },
+    {
+      "order_id": 488,
+      "month": "2025-10",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 1304.34,
+      "profit": 391.29
+    },
+    {
+      "order_id": 489,
+      "month": "2026-03",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 1648.36,
+      "profit": 494.52
+    },
+    {
+      "order_id": 490,
+      "month": "2026-11",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 1479.78,
+      "profit": 443.94
+    },
+    {
+      "order_id": 491,
+      "month": "2025-04",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 4590.17,
+      "profit": 1080.02
+    },
+    {
+      "order_id": 492,
+      "month": "2025-08",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C008",
+      "revenue": 1365.95,
+      "profit": 359.45
+    },
+    {
+      "order_id": 493,
+      "month": "2025-04",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 2675.75,
+      "profit": 704.15
+    },
+    {
+      "order_id": 494,
+      "month": "2026-01",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 3452.6,
+      "profit": 472.46
+    },
+    {
+      "order_id": 495,
+      "month": "2026-09",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 746.33,
+      "profit": 165.85
+    },
+    {
+      "order_id": 496,
+      "month": "2025-07",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 862.58,
+      "profit": 191.68
+    },
+    {
+      "order_id": 498,
+      "month": "2026-03",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C008",
+      "revenue": 6063.85,
+      "profit": 2122.35
+    },
+    {
+      "order_id": 499,
+      "month": "2026-11",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 13258.26,
+      "profit": 3181.98
+    },
+    {
+      "order_id": 500,
+      "month": "2025-10",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C008",
+      "revenue": 7080.8,
+      "profit": 1101.44
+    },
+    {
+      "order_id": 501,
+      "month": "2026-12",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C004",
+      "revenue": 3280.73,
+      "profit": 115.79
+    },
+    {
+      "order_id": 502,
+      "month": "2025-05",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C003",
+      "revenue": 3708.08,
+      "profit": 507.44
+    },
+    {
+      "order_id": 503,
+      "month": "2026-11",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 2744.73,
+      "profit": 243.98
+    },
+    {
+      "order_id": 504,
+      "month": "2026-01",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C003",
+      "revenue": 352.39,
+      "profit": 62.18
+    },
+    {
+      "order_id": 505,
+      "month": "2026-12",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 7896.3,
+      "profit": 1895.1
+    },
+    {
+      "order_id": 506,
+      "month": "2026-04",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 924.6,
+      "profit": 32.64
+    },
+    {
+      "order_id": 507,
+      "month": "2026-12",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 808.5,
+      "profit": 142.68
+    },
+    {
+      "order_id": 508,
+      "month": "2025-02",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 1869.3,
+      "profit": 491.94
+    },
+    {
+      "order_id": 509,
+      "month": "2026-07",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 898.62,
+      "profit": 236.48
+    },
+    {
+      "order_id": 510,
+      "month": "2025-06",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 13498.5,
+      "profit": 3239.64
+    },
+    {
+      "order_id": 511,
+      "month": "2026-08",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 2639.15,
+      "profit": 361.15
+    },
+    {
+      "order_id": 512,
+      "month": "2026-09",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 2605.74,
+      "profit": 625.38
+    },
+    {
+      "order_id": 513,
+      "month": "2025-07",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 572.9,
+      "profit": 78.4
+    },
+    {
+      "order_id": 514,
+      "month": "2025-08",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C006",
+      "revenue": 403.66,
+      "profit": 106.22
+    },
+    {
+      "order_id": 515,
+      "month": "2026-07",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 10148.7,
+      "profit": 1074.55
+    },
+    {
+      "order_id": 516,
+      "month": "2025-09",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 829.04,
+      "profit": 146.3
+    },
+    {
+      "order_id": 517,
+      "month": "2025-10",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 4596.71,
+      "profit": 1451.59
+    },
+    {
+      "order_id": 518,
+      "month": "2026-10",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 1726.72,
+      "profit": 518.0
+    },
+    {
+      "order_id": 519,
+      "month": "2026-10",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C002",
+      "revenue": 2053.55,
+      "profit": 483.19
+    },
+    {
+      "order_id": 520,
+      "month": "2025-07",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 13830.05,
+      "profit": 2151.35
+    },
+    {
+      "order_id": 521,
+      "month": "2025-02",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 2253.69,
+      "profit": 350.57
+    },
+    {
+      "order_id": 522,
+      "month": "2025-08",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 3045.0,
+      "profit": 548.1
+    },
+    {
+      "order_id": 523,
+      "month": "2026-11",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 1544.78,
+      "profit": 406.54
+    },
+    {
+      "order_id": 524,
+      "month": "2025-03",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C006",
+      "revenue": 5563.69,
+      "profit": 1309.09
+    },
+    {
+      "order_id": 525,
+      "month": "2026-03",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 2868.9,
+      "profit": 516.4
+    },
+    {
+      "order_id": 527,
+      "month": "2025-01",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 7465.72,
+      "profit": 1493.14
+    },
+    {
+      "order_id": 528,
+      "month": "2025-11",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C004",
+      "revenue": 2083.48,
+      "profit": 367.68
+    },
+    {
+      "order_id": 529,
+      "month": "2025-09",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C004",
+      "revenue": 4531.96,
+      "profit": 1087.68
+    },
+    {
+      "order_id": 530,
+      "month": "2025-03",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 5556.24,
+      "profit": 1543.39
+    },
+    {
+      "order_id": 531,
+      "month": "2025-12",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 12208.64,
+      "profit": 1292.66
+    },
+    {
+      "order_id": 532,
+      "month": "2025-07",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 2334.5,
+      "profit": 466.9
+    },
+    {
+      "order_id": 534,
+      "month": "2025-08",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 2164.25,
+      "profit": 432.85
+    },
+    {
+      "order_id": 535,
+      "month": "2026-04",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C008",
+      "revenue": 14713.92,
+      "profit": 2942.76
+    },
+    {
+      "order_id": 536,
+      "month": "2026-09",
+      "seller": "Camila",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 2104.1,
+      "profit": 631.25
+    },
+    {
+      "order_id": 537,
+      "month": "2026-10",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 11431.75,
+      "profit": 2743.6
+    },
+    {
+      "order_id": 538,
+      "month": "2026-08",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 5003.23,
+      "profit": 1177.23
+    },
+    {
+      "order_id": 539,
+      "month": "2025-08",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 2627.52,
+      "profit": 788.28
+    },
+    {
+      "order_id": 540,
+      "month": "2026-11",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C004",
+      "revenue": 4561.98,
+      "profit": 1440.62
+    },
+    {
+      "order_id": 541,
+      "month": "2026-08",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 8983.96,
+      "profit": 2156.16
+    },
+    {
+      "order_id": 542,
+      "month": "2025-09",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C006",
+      "revenue": 2044.12,
+      "profit": 567.82
+    },
+    {
+      "order_id": 544,
+      "month": "2025-10",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 523.63,
+      "profit": 18.49
+    },
+    {
+      "order_id": 546,
+      "month": "2025-12",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C008",
+      "revenue": 10482.26,
+      "profit": 1630.56
+    },
+    {
+      "order_id": 547,
+      "month": "2025-08",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C002",
+      "revenue": 5927.9,
+      "profit": 2074.75
+    },
+    {
+      "order_id": 548,
+      "month": "2025-05",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C004",
+      "revenue": 4653.04,
+      "profit": 930.6
+    },
+    {
+      "order_id": 549,
+      "month": "2026-08",
+      "seller": "Bruno",
+      "product": "Software",
+      "customer_id": "C003",
+      "revenue": 4301.89,
+      "profit": 1194.97
+    },
+    {
+      "order_id": 550,
+      "month": "2025-05",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 2077.67,
+      "profit": 488.87
+    },
+    {
+      "order_id": 552,
+      "month": "2026-05",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 8964.2,
+      "profit": 949.16
+    },
+    {
+      "order_id": 553,
+      "month": "2026-06",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 12295.7,
+      "profit": 2950.95
+    },
+    {
+      "order_id": 554,
+      "month": "2025-08",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 2076.96,
+      "profit": 73.32
+    },
+    {
+      "order_id": 555,
+      "month": "2026-06",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 2186.71,
+      "profit": 514.51
+    },
+    {
+      "order_id": 556,
+      "month": "2026-06",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 8322.89,
+      "profit": 881.25
+    },
+    {
+      "order_id": 557,
+      "month": "2026-11",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 10868.14,
+      "profit": 1150.74
+    },
+    {
+      "order_id": 558,
+      "month": "2026-05",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 6033.04,
+      "profit": 1419.52
+    },
+    {
+      "order_id": 559,
+      "month": "2025-08",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C002",
+      "revenue": 4564.32,
+      "profit": 1597.52
+    },
+    {
+      "order_id": 560,
+      "month": "2025-01",
+      "seller": "Marina",
+      "product": "Suporte",
+      "customer_id": "C002",
+      "revenue": 1216.47,
+      "profit": 364.95
+    },
+    {
+      "order_id": 561,
+      "month": "2025-04",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 13430.62,
+      "profit": 2686.12
+    },
+    {
+      "order_id": 562,
+      "month": "2026-01",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 1506.62,
+      "profit": 53.18
+    },
+    {
+      "order_id": 564,
+      "month": "2026-11",
+      "seller": "Rafael",
+      "product": "Treinamento",
+      "customer_id": "C002",
+      "revenue": 3392.77,
+      "profit": 301.57
+    },
+    {
+      "order_id": 565,
+      "month": "2025-12",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 2404.0,
+      "profit": 576.96
+    },
+    {
+      "order_id": 566,
+      "month": "2026-09",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 1193.2,
+      "profit": 417.62
+    },
+    {
+      "order_id": 567,
+      "month": "2026-01",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 7356.99,
+      "profit": 1765.68
+    },
+    {
+      "order_id": 568,
+      "month": "2025-07",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C005",
+      "revenue": 2133.63,
+      "profit": 592.67
+    },
+    {
+      "order_id": 570,
+      "month": "2026-02",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 3144.82,
+      "profit": 873.55
+    },
+    {
+      "order_id": 572,
+      "month": "2026-04",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 1114.47,
+      "profit": 39.33
+    },
+    {
+      "order_id": 574,
+      "month": "2026-03",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C007",
+      "revenue": 2422.58,
+      "profit": 85.48
+    },
+    {
+      "order_id": 575,
+      "month": "2025-01",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C008",
+      "revenue": 2331.29,
+      "profit": 207.21
+    },
+    {
+      "order_id": 577,
+      "month": "2025-04",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 6495.61,
+      "profit": 2051.23
+    },
+    {
+      "order_id": 579,
+      "month": "2025-09",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 9090.92,
+      "profit": 2181.84
+    },
+    {
+      "order_id": 580,
+      "month": "2025-04",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 10615.68,
+      "profit": 2123.13
+    },
+    {
+      "order_id": 581,
+      "month": "2026-07",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C001",
+      "revenue": 2368.9,
+      "profit": 710.65
+    },
+    {
+      "order_id": 582,
+      "month": "2026-05",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C003",
+      "revenue": 2190.45,
+      "profit": 77.29
+    },
+    {
+      "order_id": 583,
+      "month": "2026-05",
+      "seller": "Camila",
+      "product": "Consultoria",
+      "customer_id": "C001",
+      "revenue": 2162.1,
+      "profit": 228.93
+    },
+    {
+      "order_id": 584,
+      "month": "2026-04",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 9980.64,
+      "profit": 2395.36
+    },
+    {
+      "order_id": 585,
+      "month": "2026-01",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 7508.42,
+      "profit": 795.02
+    },
+    {
+      "order_id": 586,
+      "month": "2025-12",
+      "seller": "Rafael",
+      "product": "Consultoria",
+      "customer_id": "C006",
+      "revenue": 7074.24,
+      "profit": 1100.43
+    },
+    {
+      "order_id": 587,
+      "month": "2026-02",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C005",
+      "revenue": 8873.91,
+      "profit": 1774.79
+    },
+    {
+      "order_id": 588,
+      "month": "2025-10",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C004",
+      "revenue": 12754.05,
+      "profit": 3060.95
+    },
+    {
+      "order_id": 589,
+      "month": "2025-01",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C003",
+      "revenue": 4774.06,
+      "profit": 1145.78
+    },
+    {
+      "order_id": 590,
+      "month": "2026-08",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C001",
+      "revenue": 2166.46,
+      "profit": 296.46
+    },
+    {
+      "order_id": 591,
+      "month": "2026-05",
+      "seller": "Bruno",
+      "product": "Consultoria",
+      "customer_id": "C002",
+      "revenue": 2550.63,
+      "profit": 612.15
+    },
+    {
+      "order_id": 592,
+      "month": "2025-09",
+      "seller": "Marina",
+      "product": "Treinamento",
+      "customer_id": "C006",
+      "revenue": 1730.63,
+      "profit": 236.81
+    },
+    {
+      "order_id": 593,
+      "month": "2026-08",
+      "seller": "Camila",
+      "product": "Treinamento",
+      "customer_id": "C003",
+      "revenue": 2875.74,
+      "profit": 101.52
+    },
+    {
+      "order_id": 594,
+      "month": "2026-01",
+      "seller": "Bruno",
+      "product": "Suporte",
+      "customer_id": "C005",
+      "revenue": 2619.38,
+      "profit": 582.08
+    },
+    {
+      "order_id": 595,
+      "month": "2026-09",
+      "seller": "Marina",
+      "product": "Consultoria",
+      "customer_id": "C007",
+      "revenue": 4488.69,
+      "profit": 897.73
+    },
+    {
+      "order_id": 596,
+      "month": "2025-10",
+      "seller": "Bruno",
+      "product": "Treinamento",
+      "customer_id": "C005",
+      "revenue": 1098.26,
+      "profit": 150.3
+    },
+    {
+      "order_id": 597,
+      "month": "2026-04",
+      "seller": "Rafael",
+      "product": "Suporte",
+      "customer_id": "C007",
+      "revenue": 1152.29,
+      "profit": 203.33
+    },
+    {
+      "order_id": 598,
+      "month": "2026-12",
+      "seller": "Rafael",
+      "product": "Software",
+      "customer_id": "C002",
+      "revenue": 2477.78,
+      "profit": 867.22
+    },
+    {
+      "order_id": 599,
+      "month": "2026-04",
+      "seller": "Marina",
+      "product": "Software",
+      "customer_id": "C001",
+      "revenue": 1304.83,
+      "profit": 456.69
+    },
+    {
+      "order_id": 600,
+      "month": "2025-03",
+      "seller": "Camila",
+      "product": "Software",
+      "customer_id": "C007",
+      "revenue": 1166.92,
+      "profit": 368.5
+    }
+  ],
   "monthly": [
     {
       "month": "2025-01",
