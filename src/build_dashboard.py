@@ -27,6 +27,7 @@ def build():
                  "orders": len(done),
                  "average_order": round(float(done["recognized_revenue"].mean()), 2),
                  "margin_pct": round(100*float(done["recognized_profit"].sum())/float(done["recognized_revenue"].sum()), 2)},
+        "transactions": done[["order_id", "month", "seller", "product", "customer_id", "recognized_revenue", "recognized_profit"]].rename(columns={"recognized_revenue":"revenue","recognized_profit":"profit"}).to_dict(orient="records"),
         "monthly": monthly.to_dict(orient="records"),
         "sellers": sellers.sort_values("revenue", ascending=False).to_dict(orient="records"),
         "products": products.sort_values("revenue", ascending=False).to_dict(orient="records"),
