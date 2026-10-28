@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "synthetic": true,
+    "seed": 42,
+    "orders": 600,
+    "completed": 556
+  },
+  "kpis": {
+    "revenue": 2177898.37,
+    "profit": 457043.72,
+    "orders": 556,
+    "average_order": 3917.08,
+    "margin_pct": 20.99
+  },
+  "monthly": [
+    {
+      "month": "2025-01",
+      "revenue": 85759.58,
+      "profit": 17395.29,
+      "orders": 18
+    },
+    {
+      "month": "2025-02",
+      "revenue": 79545.87,
+      "profit": 16263.91,
+      "orders": 21
+    },
+    {
+      "month": "2025-03",
+      "revenue": 95638.34,
+      "profit": 21184.620000000003,
+      "orders": 22
+    },
+    {
+      "month": "2025-04",
+      "revenue": 125873.7,
+      "profit": 26468.44,
+      "orders": 25
+    },
+    {
+      "month": "2025-05",
+      "revenue": 69558.05,
+      "profit": 13583.23,
+      "orders": 20
+    },
+    {
+      "month": "2025-06",
+      "revenue": 78670.11,
+      "profit": 16115.9,
+      "orders": 23
+    },
+    {
+      "month": "2025-07",
+      "revenue": 99190.12,
+      "profit": 17748.72,
+      "orders": 24
+    },
+    {
+      "month": "2025-08",
+      "revenue": 74480.03,
+      "profit": 19517.93,
+      "orders": 27
+    },
+    {
+      "month": "2025-09",
+      "revenue": 81687.24,
+      "profit": 19122.15,
+      "orders": 27
+    },
+    {
+      "month": "2025-10",
+      "revenue": 75996.34999999999,
+      "profit": 18569.27,
+      "orders": 18
+    },
+    {
+      "month": "2025-11",
+      "revenue": 85661.1,
+      "profit": 17175.48,
+      "orders": 21
+    },
+    {
+      "month": "2025-12",
+      "revenue": 121957.07,
+      "profit": 23693.08,
+      "orders": 24
+    },
+    {
+      "month": "2026-01",
+      "revenue": 129466.16,
+      "profit": 27415.97,
+      "orders": 33
+    },
+    {
+      "month": "2026-02",
+      "revenue": 77732.04,
+      "profit": 17997.21,
+      "orders": 17
+    },
+    {
+      "month": "2026-03",
+      "revenue": 69992.12,
+      "profit": 16832.6,
+      "orders": 21
+    },
+    {
+      "month": "2026-04",
+      "revenue": 82079.4,
+      "profit": 17091.35,
+      "orders": 28
+    },
+    {
+      "month": "2026-05",
+      "revenue": 84184.99,
+      "profit": 14231.03,
+      "orders": 22
+    },
+    {
+      "month": "2026-06",
+      "revenue": 58382.18,
+      "profit": 11815.27,
+      "orders": 18
+    },
+    {
+      "month": "2026-07",
+      "revenue": 148014.67,
+      "profit": 29805.62,
+      "orders": 29
+    },
+    {
+      "month": "2026-08",
+      "revenue": 93969.38,
+      "profit": 17918.07,
+      "orders": 23
+    },
+    {
+      "month": "2026-09",
+      "revenue": 106071.78,
+      "profit": 22816.13,
+      "orders": 26
+    },
+    {
+      "month": "2026-10",
+      "revenue": 94825.66,
+      "profit": 20415.53,
+      "orders": 24
+    },
+    {
+      "month": "2026-11",
+      "revenue": 83368.56,
+      "profit": 17641.41,
+      "orders": 22
+    },
+    {
+      "month": "2026-12",
+      "revenue": 75793.87,
+      "profit": 16225.51,
+      "orders": 23
+    }
+  ],
+  "sellers": [
+    {
+      "seller": "Marina",
+      "revenue": 589997.01,
+      "orders": 150
+    },
+    {
+      "seller": "Bruno",
+      "revenue": 554269.8099999999,
+      "orders": 132
+    },
+    {
+      "seller": "Camila",
+      "revenue": 521738.25,
+      "orders": 132
+    },
+    {
+      "seller": "Rafael",
+      "revenue": 511893.3,
+      "orders": 142
+    }
+  ],
+  "products": [
+    {
+      "product": "Consultoria",
+      "revenue": 1212957.44,
+      "profit": 227492.65
+    },
+    {
+      "product": "Software",
+      "revenue": 482845.62,
+      "profit": 146609.57
+    },
+    {
+      "product": "Treinamento",
+      "revenue": 289212.35,
+      "profit": 33647.24
+    },
+    {
+      "product": "Suporte",
+      "revenue": 192882.96,
+      "profit": 49294.26
+    }
+  ],
+  "customers": [
+    {
+      "customer_id": "C006",
+      "revenue": 341409.33999999997,
+      "orders": 73
+    },
+    {
+      "customer_id": "C003",
+      "revenue": 315998.27999999997,
+      "orders": 76
+    },
+    {
+      "customer_id": "C002",
+      "revenue": 292471.83,
+      "orders": 76
+    },
+    {
+      "customer_id": "C007",
+      "revenue": 281600.92,
+      "orders": 73
+    },
+    {
+      "customer_id": "C005",
+      "revenue": 281300.64,
+      "orders": 74
+    },
+    {
+      "customer_id": "C001",
+      "revenue": 258442.5,
+      "orders": 62
+    },
+    {
+      "customer_id": "C008",
+      "revenue": 232123.04,
+      "orders": 64
+    },
+    {
+      "customer_id": "C004",
+      "revenue": 174551.82,
+      "orders": 58
+    }
+  ]
+}
